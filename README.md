@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GavinBrelstaff
-- 👀 I’m interested in Client-side WebApps
-- 🌱 I’m currently Elixir
+- 👀 I’m interested in standalone Client-side WebApps
+- 🌱 I’m currently learning Elixir Nx Axon
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: gjb.crs4 AT gmail.com
 - I work at CRS4 in Sardinia
